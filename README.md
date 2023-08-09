@@ -1,7 +1,7 @@
 # Cloud-Based-Data-Pipeline
 
 ## Abstract
-I performed this project during my Data Science Bootcamp at WBS CODING SCHOOL. It involves constructing and automating a data pipeline on the cloud, enabling real-time access to data. For detailed information about the project, please refer to my Medium article: "Driving Success with Data: How I Built a Cloud-Based Data Pipeline for Predicting E-Scooter Movement."
+I performed this project during my Data Science Bootcamp at WBS CODING SCHOOL. It involves constructing and automating a data pipeline on the cloud, enabling real-time access to data. For detailed information about the project, please refer to my Medium article: ["Driving Success with Data: How I Built a Cloud-Based Data Pipeline for Predicting E-Scooter Movement."](https://medium.com/@na.sharghivand/driving-success-with-data-how-i-built-a-cloud-based-data-pipeline-for-predicting-e-scooter-1fba076aa015)
 
 Using the capabilities of Python and AWS, I successfully created a scalable and predictive data pipeline. Below, the diagram accurately represents the project's outcome.
 
